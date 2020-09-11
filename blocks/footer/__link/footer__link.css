@@ -1,0 +1,15 @@
+.footer__link{
+    text-decoration: none;
+    color: white;
+    margin-right: 18px;
+    
+}
+
+@media screen and(max-width:425px){
+    .footer__copyright{
+    margin:0 0 32px 0;
+}}
+
+.footer__link:hover{
+    opacity: 0.8;
+}
