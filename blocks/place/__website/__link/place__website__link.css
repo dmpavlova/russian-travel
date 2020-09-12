@@ -1,15 +1,14 @@
-.place__website__link{
-    color:white;
+.place__website__link {
+    color: white;
     text-decoration: none;
     font-family: Suisse Intl;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height:1.2;
-
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 1.2;
 }
 
-.place__website__link:hover{
+.place__website__link:hover {
     text-decoration-line: underline;
-opacity: 0.8;
+    opacity: 0.8;
 }

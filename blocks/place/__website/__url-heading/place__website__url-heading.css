@@ -1,8 +1,9 @@
-.place__website__url-heading{
-    margin:0;
-       font-family: Suisse Intl;
-font-style: normal;
-font-weight: normal;
-font-size: 15px;
-line-height:1.2;
-color:darkgray;}
+.place__website__url-heading {
+    margin: 0;
+    font-family: Suisse Intl;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 1.2;
+    color: darkgray;
+}

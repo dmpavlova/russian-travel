@@ -1,5 +1,10 @@
-.footer{
-    width:90.6%;
-    min-height:18px;
-    margin:0 auto 24px auto;
+.footer {
+    max-width: 90.6%;
+    min-height: 18px;
+    margin: 0 auto 24px auto;
+}
+@media screen and (max-width: 425px) {
+    .footer {
+        max-width: 58%;
+    }
 }

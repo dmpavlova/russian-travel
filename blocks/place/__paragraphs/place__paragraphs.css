@@ -1,20 +1,19 @@
-.place__paragraphs{
+.place__paragraphs {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;    
+    justify-content: space-between;
 }
 
-@media screen and (max-width:768px){
-    .place__paragraphs{
-        width:352px;
-        
+@media screen and (max-width: 768px) {
+    .place__paragraphs {
+        max-width: 352px;
     }
 }
 
-@media screen and (max-width:425px){
-    .place__paragraphs{
+@media screen and (max-width: 425px) {
+    .place__paragraphs {
         grid-row: 3;
         margin: 0 16px;
-        width:288px;
+        width: 288px;
     }
 }
