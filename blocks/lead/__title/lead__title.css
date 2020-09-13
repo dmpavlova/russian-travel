@@ -11,10 +11,20 @@
     text-align: center;
     color: #ffffff;
 }
-
+@media screen and (max-width:810px){
+    .lead__title{
+        font-size: 90px;
+    }
+}
 @media screen and (max-width: 768px) {
     .lead__title {
-        max-width: 94%;
+        max-width: 93.75%;
+        font-size: 96px;
+    }
+}
+@media screen and (max-width:715px){
+    .lead__title{
+        font-size: 90px;
     }
 }
 
@@ -25,7 +35,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 455px) {
     .lead__title {
         max-width: 90%;
         min-height: 88px;

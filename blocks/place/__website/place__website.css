@@ -16,15 +16,7 @@
         margin-bottom: 20px;
     }
 }
-@media screen and (max-width: 600px) {
-    .place__website {
-        display: none;
-        grid-row: 1;
-        grid-column: 1;
-        height: 1px;
-    }
-}
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 450px) {
     .place__website {
         display: none;
         grid-row: 1;

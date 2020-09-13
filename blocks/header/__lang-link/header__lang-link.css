@@ -2,12 +2,17 @@
     max-width: 30px;
     min-height: 28px;
     margin-left: 18px;
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
     line-height: 1.17;
     color: #ffffff;
+    text-decoration: none;
+    
+}
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 @media screen and (max-width: 425px) {
     .header__lang-link {
@@ -15,3 +20,4 @@
         line-height: 1.11;
     }
 }
+

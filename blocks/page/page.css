@@ -1,7 +1,7 @@
 .page {
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     color: #ffffff;
-    max-width: 1280px;
+    max-width: 1280px;    
     min-height: 6875px;
 }
 
@@ -26,7 +26,6 @@
 
 @media screen and (max-width: 320px) {
     .page {
-        max-width: 320px;
-        min-height: 9630px;
+        max-width: 320px;       
     }
 }
