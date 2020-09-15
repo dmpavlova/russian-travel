@@ -1,15 +1,4 @@
 .footer__link {
     text-decoration: none;
     color: white;
-    margin-right: 9px;
-}
-
-@media screen and (max-width: 425px) {
-    .footer__link {
-        margin: 0 0 16px 0;
-    }
-}
-
-.footer__link:hover {
-    opacity: 0.8;
-}
+ }
